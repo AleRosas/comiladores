@@ -1,0 +1,6 @@
+package analizadorsintacticomysql;
+
+public class Parser {
+
+}
+ 	
