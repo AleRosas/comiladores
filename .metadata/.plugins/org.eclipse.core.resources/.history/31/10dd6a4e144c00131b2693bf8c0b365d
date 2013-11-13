@@ -1,7 +1,5 @@
 package analizadorsintacticomysql;
-import javax.swing.*;
-import java.awt.*;
+//Autor: Gustavo Rosas Martinez 
 public class scanner {
 
 }
- 	 	
